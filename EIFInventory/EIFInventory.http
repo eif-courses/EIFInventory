@@ -1,0 +1,6 @@
+@EIFInventory_HostAddress = http://localhost:5095
+
+GET {{EIFInventory_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
